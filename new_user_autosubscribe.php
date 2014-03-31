@@ -8,6 +8,7 @@
  * @license GNU GPLv3+
  * @author Dummy Luck Kiev
  *
+ * https://github.com/dummyluck/new_user_autosubscribe
  * http://dummyluck.com/page/roundcube_plugin_new_user_autosubscribe
  * rndcb@dummyluck.com
  */
