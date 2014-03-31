@@ -1,0 +1,20 @@
+{
+  "name":"dummyluck/new_user_autosubscribe",
+  "type": "roundcube-plugin",
+  "description":"Subscribe default folders for new user, after first logon",
+  "keywords": ["first","logon","subscribe"],
+  "license":"GPL-3.0+",
+  "homepage":"https://github.com/dummyluck/new_user_autosubscribe",
+  "authors": [
+          {
+              "name": "Dummy Luck",
+              "email": "rndcb@dummyluck.com",
+              "homepage": "http://dummyluck.com/page/roundcube_plugin_new_user_autosubscribe",
+              "role": "Developer"
+          }
+      ],
+  "support": {
+          "email": "rndcb@dummyluck.com",
+          "issues": "https://github.com/dummyluck/new_user_autosubscribe"
+      }
+}
