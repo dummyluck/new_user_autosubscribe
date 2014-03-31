@@ -9,4 +9,3 @@ Roundcube plugin new_user_autosubscribe
  *
  * http://dummyluck.com/page/roundcube_plugin_new_user_autosubscribe
  * https://github.com/dummyluck/new_user_autosubscribe
- * rndcb@dummyluck.com
