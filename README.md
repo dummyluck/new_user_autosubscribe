@@ -1,4 +1,4 @@
-Roundcube plugin - new_user_autosubscribe.
+Roundcube plugin new_user_autosubscribe
 ======================
   * Subscribe default folders for new user, after first logon
  * Set a priority in the list view folders
